@@ -38,7 +38,7 @@ mongoose.connect(process.env.MONGODB_URL)
     console.log('DB connection error')
 })
     
-
+//
 //another method for connecting database
 
     // app.get('/',(req,res)=>{
