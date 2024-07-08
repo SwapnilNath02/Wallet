@@ -7,7 +7,7 @@ import Button from '../Button/Button';
 import { plus } from '../../utils/Icons';
 import { useAuthContext } from '../../Hooks/useAuthContext';
 
-const BASE_URL = "http://localhost:5000/api/v1/";
+
 function Form() {
   const { user } = useAuthContext()
     const {addIncome, getIncomes, error, setError} = useGlobalContext()
