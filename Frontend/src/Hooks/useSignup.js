@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { useAuthContext } from './useAuthContext'
 
-const BASE_URL = "http://localhost:5000/api/user/";
+const BASE_URL = "https://wallet-y4xl.vercel.app/api/user/";
 
 export const useSignup = () => {
   const [error, setError] = useState(null)
