@@ -109,7 +109,7 @@ const LoginFormStyled = styled.form`
       box-shadow: 0px 1px 15px rgba(0, 0, 0, 0.06);
 
       &:hover {
-        background: var(--color-green) !important;
+        background: #66b2ff !important;
       }
     }
   }

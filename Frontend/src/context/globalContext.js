@@ -3,7 +3,7 @@ import axios from 'axios'
 import { useAuthContext } from "../Hooks/useAuthContext";
 
 
-const BASE_URL = "https://wallet-y4xl.vercel.app/api/v1/";
+const BASE_URL = "https://wallet-vjvp.onrender.com/api/v1/";
 
 
 const GlobalContext = createContext()
