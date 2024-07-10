@@ -7,8 +7,7 @@ live - https://wallet-ivory.vercel.app/login
 ![image](https://github.com/SwapnilNath02/Wallet/assets/97836004/e5ec3d0b-cf08-4431-8b89-496db9014b69)
 ![image](https://github.com/SwapnilNath02/Wallet/assets/97836004/1a035e98-b7cc-4292-8177-22daea937872)
 ![image](https://github.com/SwapnilNath02/Wallet/assets/97836004/ad66c2ae-19e3-4ae0-b605-71f70a4173e7)
-
-
+![image](https://github.com/SwapnilNath02/Wallet/assets/97836004/8fcecb34-4a3f-4a40-a338-c8d0a029c37c)
 
 
 # Tech-stack used
@@ -21,11 +20,12 @@ MongoDB
 
 # About the Website
 
-• Developed a Workout Management System, a full-stack web application using MongoDB, Express.js, React.js,
-and Node.js and JWT for secure user authentication.
+• Developed an Expense Tracking application using the MERN stack for full-stack functionality, facilitating
+management of incomes and expenses and JWT is used for secure user authentication.
 <br>
-• The website allows each user to create its specific workout routine and also edit and delete them.
+• Integrated features for adding, editing, and deleting transactions, emphasizing user interaction and interface
+design with React.js.
 <br>
-• Utilized React.js for frontend development, Node.js with Express.js for backend development, and MongoDB
-for database management.
+• Implemented backend functionality with Node.js and Express.js, utilizing MongoDB for database
+management and integrated Chart.js to visualize and track income and expenses over time.
 
