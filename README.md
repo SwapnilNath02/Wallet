@@ -6,7 +6,7 @@ live - https://wallet-ivory.vercel.app/login
 ![image](https://github.com/SwapnilNath02/Wallet/assets/97836004/311b78e1-b178-4692-a4c5-eec2bde0a909)
 ![image](https://github.com/SwapnilNath02/Wallet/assets/97836004/e5ec3d0b-cf08-4431-8b89-496db9014b69)
 ![image](https://github.com/SwapnilNath02/Wallet/assets/97836004/1a035e98-b7cc-4292-8177-22daea937872)
-![image](https://github.com/SwapnilNath02/Wallet/assets/97836004/ad66c2ae-19e3-4ae0-b605-71f70a4173e7)
+![image](https://github.com/SwapnilNath02/Wallet/assets/97836004/4b9a93ee-e260-4f51-8dcf-4fa38631731c)
 ![image](https://github.com/SwapnilNath02/Wallet/assets/97836004/8fcecb34-4a3f-4a40-a338-c8d0a029c37c)
 
 
